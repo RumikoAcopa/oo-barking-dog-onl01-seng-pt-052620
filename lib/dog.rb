@@ -1,6 +1,6 @@
 class Dog
-  def name = (fido)  # Your code goes here!
-# fido = Dog.new
+  def name = (fido)  
+    
     def bark
       puts "woof!"
       end
